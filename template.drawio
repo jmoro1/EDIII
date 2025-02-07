@@ -61,17 +61,17 @@
             <mxPoint x="870" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GrLBo9PtLHuX9XOGEQVJ-10" value="Analog Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GrLBo9PtLHuX9XOGEQVJ-10" value="Digital Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="110" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrLBo9PtLHuX9XOGEQVJ-11" value="Digital Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GrLBo9PtLHuX9XOGEQVJ-11" value="Analog Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrLBo9PtLHuX9XOGEQVJ-12" value="Digital Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="270" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrLBo9PtLHuX9XOGEQVJ-13" value="I2C Comm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="350" width="60" height="40" as="geometry" />
+          <mxGeometry x="620.5" y="350" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uA3TDthxbYoM9Gd3NzN--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vvelxjKlHn5M0ghXR4K2-3" target="uA3TDthxbYoM9Gd3NzN--13" edge="1">
           <mxGeometry relative="1" as="geometry">
